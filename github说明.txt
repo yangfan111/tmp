@@ -5,6 +5,7 @@ CsharpCode:工程/個人代碼庫
 Common：KL工具集 
 Mics: 个人数据文件
 tmp：臨時文件
+OneNote:整个资料库缓存+备份
 
 工程庫代碼：
 OSM-Master : 车辆模拟代码
